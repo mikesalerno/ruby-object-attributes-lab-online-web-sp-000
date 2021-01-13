@@ -7,4 +7,12 @@ class Person
     @name
   end
 
+  def breed=(breed)
+    @breed = bread
+  end
+
+  def breed
+    @breed
+  end
+
 end
