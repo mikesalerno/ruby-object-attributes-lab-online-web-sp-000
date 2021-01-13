@@ -1,4 +1,4 @@
-class Person
+class Dog
   def name=(dog_name)
     @name = dog_name
   end
@@ -8,11 +8,10 @@ class Person
   end
 
   def breed=(breed)
-    @breed = bread
+    @breed = breed
   end
 
   def breed
     @breed
   end
-
 end
